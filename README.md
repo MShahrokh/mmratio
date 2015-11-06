@@ -11,7 +11,7 @@ The next input, necessary for the function, is the label vector. We consider a b
 * We define the ratio r as the number of sample size with the smaller numeric label to the total sample size.
 
 * Other inputs are optional but can highly affect the result. 
-* 
+
 * The default classification rule is 3NN. 
-* 
+
 * The default number of initial feature selection recommended for kNN rules, is 1000. The following functions are also needed for mmratio to run: Class_LDA, Class_QDA, Class_KNN, Class_Anderson, Class_NM, LibSVM package, and MATLAB classregtree.
